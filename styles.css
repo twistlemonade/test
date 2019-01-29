@@ -1,0 +1,215 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Roboto', sans-serif;
+}
+
+textarea:focus, input:focus, select, button {
+  outline: none;
+}
+
+div {
+  position: absolute;
+}
+
+input[type=text], select {
+  background-color: #f8f8f8;
+  border: 0px solid;
+  text-indent: 20px;
+  font-size: 110%;
+  position: absolute;
+}
+
+.background {
+  left: -2px;
+  top: -1px;
+  width: 1603px;
+  height: 1060px;
+  z-index: 1;
+}
+
+.rectangle {
+  left: 231px;
+  top: 184px;
+  width: 802px;
+  height: 700px;
+  z-index: 2;
+}
+
+.avatar {
+  left: 249px;
+  top: 236px;
+  width: 600px;
+  height: 600px;
+  z-index: 3;
+}
+
+.rectangle2 {
+  left: 551px;
+  top: 184px;
+  width: 802px;
+  height: 700px;
+  z-index: 4;
+}
+
+.name {
+  left: 599px;
+  top: 231px;
+  width: 100px;
+  height: 16px;
+  z-index: 5;
+}
+
+.fntext {
+  left: 600px;
+  top: 314px;
+  width: 345px;
+  height: 53px;
+  z-index: 6;
+}
+
+.lntext {
+  left: 957px;
+  top: 314px;
+  width: 360px;
+  height: 55px;
+  z-index: 7;
+}
+
+.FirstName {
+  left: 600px;
+  top: 285px;
+  width: 100px;
+  z-index: 8;
+}
+
+.LastName {
+  left: 959px;
+  top: 285px;
+  width: 100px;
+  z-index: 9;
+}
+
+.passtext {
+  left: 598px;
+  top: 434px;
+  width: 720px;
+  height: 55px;
+  z-index: 10;
+}
+
+.password {
+  left: 600px;
+  top: 405px;
+  width: 49px;
+  height: 11px;
+  z-index: 11;
+}
+
+.phone {
+  left: 600px;
+  top: 525px;
+  width: 34px;
+  height: 11px;
+  z-index: 12;
+}
+
+.phonetext {
+  left: 600px;
+  top: 554px;
+  width: 345px;
+  height: 55px;
+  z-index: 13;
+}
+
+.email {
+  left: 959px;
+  top: 525px;
+  width: 28px;
+  height: 11px;
+  z-index: 14;
+}
+
+.emailtext {
+  left: 957px;
+  top: 554px;
+  width: 360px;
+  height: 55px;
+  z-index: 15;
+}
+
+.role {
+  left: 600px;
+  top: 645px;
+  width: 22px;
+  height: 11px;
+  z-index: 16;
+}
+
+.alert {
+  left: 820px;
+  top: 645px;
+  width: 190px;
+  height: 11px;
+  z-index: 17;
+}
+
+.active {
+  left: 960px;
+  top: 645px;
+  width: 33px;
+  height: 11px;
+  z-index: 18;
+}
+
+.rolelist {
+  left: 598px;
+  top: 674px;
+  width: 210px;
+  height: 55px;
+  z-index: 19;
+}
+
+.alertlist {
+  left: 818px;
+  top: 674px;
+  width: 131px;
+  height: 55px;
+  z-index: 20;
+}
+
+.activelist {
+  left: 959px;
+  top: 674px;
+  width: 131px;
+  height: 55px;
+  z-index: 21;
+}
+
+.edit {
+  left: 604px;
+  top: 827px;
+  width: 183px;
+  height: 11px;
+  z-index: 22;
+}
+
+.layer {
+  left: 599px;
+  top: 764px;
+  width: 722px;
+  height: 24px;
+  z-index: 23;
+}
+
+.savebtn {
+  left: 1101px;
+  top: 674px;
+  background-color: #7da43f;
+  color: #fff;
+  border: 0px solid;
+  position: absolute;
+  width: 220px;
+  height: 55px;
+  z-index: 24;
+}
